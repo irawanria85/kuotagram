@@ -610,6 +610,8 @@ var pages = [
 "https://kuotagram.blogspot.com/2019/09/worried-about-student-loans-bad-credit.html",
 "https://kuotagram.blogspot.com/2019/09/you-can-make-your-retirement-savings.html",
 "https://kuotagram.blogspot.com/2019/09/young-driver-reputation.html",
+"https://kuotagram.blogspot.com/2020/01/creative-workshops-i-loved-lately.html",
+"https://kuotagram.blogspot.com/2020/01/sometimes-we-need-someone-to-talk.html",
 
 ]; 
 function randomPage() { 
